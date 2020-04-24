@@ -22,6 +22,19 @@ button {
     font-size: 3em;
 }
 
-#output {
+#output table {
+    width: 100%;
+}
+
+#output td {
     font-size: 2em;
+    width : 50%;
+}
+
+.percent {
+    text-align: left;
+}
+
+.genome {
+    text-align: right;
 }
